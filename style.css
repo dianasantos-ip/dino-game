@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 255, 202);
+    background: rgb(245, 245, 175);
 }
 
 .dino {
@@ -27,7 +27,7 @@ body {
 
 @keyframes slideright {
     from {
-        background-position: 7000%;
+        background-position: 70000%;
     }
     to {
         background-position: 0;
